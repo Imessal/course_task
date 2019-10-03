@@ -1,0 +1,43 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin-left: 18%;
+	margin-right: 18%;
+}
+#figures{
+	margin-top: 20%;
+	margin-left: -3%;
+	margin-right: -3%;
+}
+#meeting{
+	padding-top: 5%;
+	font-size: 18px;
+}
+#logo{
+	margin-left: 1%;
+}
+#header {
+	font-size: 90px;
+	text-align: left;
+	display: inline-block;
+}
+#about{
+	padding-left: 5%;
+}
+.intro {
+	font-size: 45px;
+	margin-bottom: 35px;
+}	
+.column {
+ 	float: left;
+ 	width: 50%;
+}
+.row{
+	font-size: 20px;
+}
+.row:after {
+ 	content: "";
+ 	display: table;
+ 	clear: both;
+}
+
+
